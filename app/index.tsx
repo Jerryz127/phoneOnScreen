@@ -15,16 +15,16 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
-    backgroundColor: "#E5E5E5",
+    backgroundColor: "#cf3131ab",
   },
 
   phoneContainer: {
     width: 350,
     height: 700,
-    backgroundColor: "white",
+    backgroundColor: "#3945b1",
     borderRadius: 35,
-    borderWidth: 2,
-    borderColor: "#222",
+    borderWidth: 5,
+    borderColor: "#ff00d4",
     paddingTop: 20,
   },
 });
